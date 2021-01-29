@@ -8,5 +8,7 @@
 -Aula 06
  ex002- Manipulação de Dados (Number, String).
  ex003- Criando variaveis com manipulação de dados.
- ex004- Imprimindo variavel na tela com página HTML
- ex005- Trabalhando com DOM
+ ex004- Imprimindo variavel na tela com página HTML.
+ ex005- Trabalhando com DOM.
+ ex006- Eventos DOM Criando, interação com página e usuário.
+ ex007- Somando Números, criado input se soma de valores.
