@@ -12,3 +12,6 @@
  ex005- Trabalhando com DOM.
  ex006- Eventos DOM Criando, interação com página e usuário.
  ex007- Somando Números, criado input se soma de valores.
+ ex008- Condições simples.
+ ex009- Condições composta.
+ ex010- Criado uma página com condições composta.
