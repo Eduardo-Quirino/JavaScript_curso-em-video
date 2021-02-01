@@ -15,3 +15,7 @@
  ex008- Condições simples.
  ex009- Condições composta.
  ex010- Criado uma página com condições composta.
+ ex011- Condições Aninhadas
+ ex012- Mostrando relógio na tela.
+  ex012.1- Mostrar hora local pelo sistema ou servidor.
+ ex013 -Condição Multiplas, "mostra o dia da semana."
