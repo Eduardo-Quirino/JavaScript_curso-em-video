@@ -18,9 +18,10 @@ section {
 }
 
 footer {
-    color: white;
+    color: rgba(255, 255, 255, 0.747);
     text-align: center;
     font-style: italic;
+    margin-top: auto;
 }
 
 div {

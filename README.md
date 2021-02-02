@@ -32,3 +32,7 @@
  ex013 -Condição Multiplas, "mostra o dia da semana."
 
 aula 12ex- Realizando exercícios, Criado site modelo.
+
+ex014- Criado site de horas conforme local.
+
+ex015- Criado site verificador de idade.
