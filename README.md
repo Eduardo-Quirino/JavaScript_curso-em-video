@@ -36,3 +36,11 @@ aula 12ex- Realizando exercícios, Criado site modelo.
 ex014- Criado site de horas conforme local.
 
 ex015- Criado site verificador de idade.
+
+Modulo E "Repetiçoes"
+-Repetição com teste no início
+-Repetição com teste no final
+-Repetição com controle
+-Execícios
+
+Aula 13 e 14 - Repetições
